@@ -8,6 +8,5 @@
 
 ## 📂 สมาชิกกลุ่ม (Group Members)
 * นายฐิติวัฒน์ ลุณบุตร รหัสนักศึกษา 68114540814
-* 
 ---
 **Acknowledgements:** แหล่งข้อมูลสาธารณะจาก Kaggle Dataset และระบบประมวลผล Google Colab
